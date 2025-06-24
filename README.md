@@ -1,4 +1,4 @@
-# 👩‍💻("C:\Users\sandi\OneDrive\Desktop\Kirti.jpg") Kirti Kote — Professional Dashboard
+# 👩‍💻 Kirti Kote — Professional Dashboard
 
 Welcome to my professional dashboard! I am a results-driven professional with a Master's degree in Computer Science, a strong background in business operations, customer support, process optimization, and a wide skill set in digital tools and creative design. I excel at streamlining workflows, supporting teams, and delivering outstanding experiences.
 
