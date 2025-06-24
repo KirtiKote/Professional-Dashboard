@@ -73,8 +73,8 @@ With 5+ years of experience spanning customer support, operations, process mappi
 ## 📫 Contact
 
 - **Email:** kirti.kote11@gmail.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kirti-kote)
-- **GitHub:** [github.com/KirtiKote](https://github.com/KirtiKote)
+- **LinkedIn:** (https://www.linkedin.com/in/kirti-kote)
+- **GitHub:** (https://github.com/KirtiKote)
 
 ---
 
