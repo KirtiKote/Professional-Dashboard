@@ -3,9 +3,6 @@
 Welcome to my professional dashboard! I am a results-driven professional with a Master's degree in Computer Science, a strong background in business operations, customer support, process optimization, and a wide skill set in digital tools and creative design. I excel at streamlining workflows, supporting teams, and delivering outstanding experiences.
 
 ---
-<p align="center">
-  <img src="https://github.com/KirtiKote/professional-dashboard/blob/main/profile.jpg?raw=true" width="160" alt="Kirti Kote Profile Photo"/>
-</p>
 
 ## 🏅 Professional Summary
 
