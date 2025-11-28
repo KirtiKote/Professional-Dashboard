@@ -1,12 +1,12 @@
 # 👩‍💻Kirti Kote — Professional Dashboard
 
-Welcome to my professional dashboard! I am a results-driven professional with a Master's degree in Computer Science, a strong background in business operations, customer support, process optimization, and a wide skill set in digital tools and creative design. I excel at streamlining workflows, supporting teams, and delivering outstanding experiences.
+Welcome to my professional dashboard! I am a results-driven professional with a Master's degree in Computer Science, a strong background in business operations and quality checks, customer support, process optimization, and a wide skill set in digital tools and creative design. I excel at streamlining workflows, supporting teams, social media strategies, and delivering outstanding experiences.
 
 ---
 
 ## 🏅 Professional Summary
 
-With 5+ years of experience spanning customer support, operations, process mapping, SOP creation, and quality assurance, I bring both technical and business perspectives to every project. My expertise includes using leading SaaS tools for process management, automation, and digital creativity. I thrive in virtual assistant roles and am passionate about optimizing processes and delivering value to customers and organizations.
+With 5+ years of experience spanning customer support, operations, process mapping, SOP creation, and quality assurance, I bring both technical and business perspectives to every project. My expertise includes using leading SaaS tools for process management, automation, and digital creativity. I thrive in virtual assistant roles and am passionate about optimizing processes, end to end quality checks, and delivering value to customers and organizations.
 
 ---
 
