@@ -48,7 +48,7 @@ With 5+ years of experience spanning customer support, operations, process mappi
 - **Digital Tools:**  
   - Visio, Trello, Jira, Notion, ZohoDesk, SAP SF, ADO services
 - **Design & Creativity:**  
-  - Canva (banner design, animation, video editing)
+  - Canva (banner design, animation, video editing), Waalaxy, SalesQL, Animation, Social Media Management
 
 ---
 
@@ -66,13 +66,14 @@ With 5+ years of experience spanning customer support, operations, process mappi
 [My Portfolio](https://your-portfolio-link.com)
 [Sample Banner Design](https://your-banner-link.com)
 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+[YouTube](https://www.youtube.com/channel/UCQR6Ir5wqYctCwAH0H5OxOw)
 -->
 
 ---
 
 ## 📫 Contact
 
-- **Email:** kirti.kote11@gmail.com
+- **Email:** koteekirti@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/kirti-kote
 - **GitHub:** https://github.com/KirtiKote
 
