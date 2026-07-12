@@ -22,14 +22,14 @@ Skilled in process mapping using Visio, workflow analysis, and quality reviews, 
 ## 📜 Certifications
 **Diploma in Strategic Operations Leadership for Digital Economy**
 
-## Key Expertise:
+## Key Expertise:##
 
-## Quality Control, Underwriting Support & Auditing:
+## Quality Control, Underwriting Support & Auditing:##
 - Achieved 100% accuracy in quality audits, policy servicing, documentation review, testing, and business analysis across US Property & Casualty (P&C) Insurance and Mortgage operations.
 - Supported underwriting operations through endorsements, renewals, cancellations, policy audits, documentation validation, quality checks, policy interpretation, and risk assessment.
 - Worked on Pega, Siebel, CLA, AtWork, eClick, SharePoint, SQL Server, and SAP SuccessFactors to ensure data accuracy and regulatory compliance.
 
-## Process Improvement & Business Analysis:
+## Process Improvement & Business Analysis:##
 - Developed SOPs, process maps, and workflow documentation using Visio while supporting Agile, SDLC, UAT, business analysis, and continuous process improvement.
 - Performed data analysis using MS Excel, SQL, and Tableau to support reporting, decision-making, and operational improvements.
 
