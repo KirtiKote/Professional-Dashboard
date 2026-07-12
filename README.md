@@ -47,18 +47,28 @@ Skilled in process mapping using Visio, workflow analysis, and quality reviews, 
 
 ## Portfolio & Project Highlights: 
 
-
 **Training & Learning Operations (Infinite Graphix Technologies Pvt Ltd.):**
+
 Deliver Agile, SQL, Canva, Video Editing, BRD/SRS, and SOP training, while supporting recruitment, learner onboarding, documentation, and stakeholder coordination.
+
 **Liberty Mutual (TCS):**
+
 Managed end-to-end underwriting support operations, quality audits, SOP creation, stakeholder communication, defect tracking in Azure DevOps (ADO), UAT support, and process improvement initiatives.
+
 **US Mortgage (Ocwen Financial Corporation):**
+
 Performed mortgage QC, HMDA & TRID compliance reviews, UW condition validation, title search verification, LE/CD validation, closing document audits, and verification of Forms 1002 & 1008 using Jira.
+
 **The Hartford Insurance Group (EXL Services):**
+
 Processed policy endorsements, renewals, cancellations, and policy validations using Pega, Siebel, and CLA, ensuring data accuracy and compliance with underwriting guidelines.
+
 **British Gas Business (EXL Services):**
+
 Managed commercial utility billing operations using SAP CRM, resolving billing discrepancies, validating customer accounts, and ensuring SLA compliance.
+
 **Quality & Process Excellence:**
+
 Developed SOPs, delivered cross-functional training, performed quality reviews, analyzed process gaps, and drove continuous improvement across insurance, mortgage, and operations workflows.
 
 <!-- Optional: Add direct links to your portfolio, resumes, or work samples below -->
