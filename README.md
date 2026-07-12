@@ -46,12 +46,18 @@ Skilled in process mapping using Visio, workflow analysis, and quality reviews, 
 **I believe quality is built through consistency, not chance. I approach every task with ownership, attention to detail, and the mindset of leaving every process better than I found it.**
 
 ## Portfolio & Project Highlights: 
-** Training & Learning Operations (Current): Deliver Agile, SQL, Canva, Video Editing, BRD/SRS, and SOP training, while supporting recruitment, learner onboarding, documentation, and stakeholder coordination.
-Liberty Mutual (US P&C Insurance – TCS): Managed end-to-end underwriting support operations, quality audits, SOP creation, stakeholder communication, defect tracking in Azure DevOps (ADO), UAT support, and process improvement initiatives.
-Ocwen Financial (US Mortgage): Performed mortgage QC, HMDA & TRID compliance reviews, UW condition validation, title search verification, LE/CD validation, closing document audits, and verification of Forms 1002 & 1008 using Jira.
-The Hartford (US P&C Insurance – EXL): Processed policy endorsements, renewals, cancellations, and policy validations using Pega, Siebel, and CLA, ensuring data accuracy and compliance with underwriting guidelines.
-British Gas Business (UK Utilities – EXL): Managed commercial utility billing operations using SAP CRM, resolving billing discrepancies, validating customer accounts, and ensuring SLA compliance.
-Quality & Process Excellence: Developed SOPs, delivered cross-functional training, performed quality reviews, analyzed process gaps, and drove continuous improvement across insurance, mortgage, and operations workflows.
+
+## Training & Learning Operations (Infinite Graphix Technologies Pvt Ltd.): 
+Deliver Agile, SQL, Canva, Video Editing, BRD/SRS, and SOP training, while supporting recruitment, learner onboarding, documentation, and stakeholder coordination.
+## Liberty Mutual (TCS): 
+Managed end-to-end underwriting support operations, quality audits, SOP creation, stakeholder communication, defect tracking in Azure DevOps (ADO), UAT support, and process improvement initiatives.
+## US Mortgage (Ocwen Financial Corporation): 
+Performed mortgage QC, HMDA & TRID compliance reviews, UW condition validation, title search verification, LE/CD validation, closing document audits, and verification of Forms 1002 & 1008 using Jira.
+## The Hartford Insurance Group (EXL Services): Processed policy endorsements, renewals, cancellations, and policy validations using Pega, Siebel, and CLA, ensuring data accuracy and compliance with underwriting guidelines.
+## British Gas Business (EXL Services): 
+Managed commercial utility billing operations using SAP CRM, resolving billing discrepancies, validating customer accounts, and ensuring SLA compliance.
+## Quality & Process Excellence:
+Developed SOPs, delivered cross-functional training, performed quality reviews, analyzed process gaps, and drove continuous improvement across insurance, mortgage, and operations workflows.
 
 <!-- Optional: Add direct links to your portfolio, resumes, or work samples below -->
 <!--
@@ -66,5 +72,6 @@ Quality & Process Excellence: Developed SOPs, delivered cross-functional trainin
 - **Email:** koteekirti@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/kirti-kote
 - **GitHub:** https://github.com/KirtiKote
+- **YouTube:** https://www.youtube.com/channel/UCQR6Ir5wqYctCwAH0H5OxOw
 
 **Let’s connect! I’m open to collaboration, full time roles, freelance opportunities, and new challenges in operations, quality excellence, and digital transformation.**
