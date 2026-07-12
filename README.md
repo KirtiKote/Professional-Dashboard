@@ -46,7 +46,7 @@ Skilled in process mapping using Visio, workflow analysis, and quality reviews, 
 **I believe quality is built through consistency, not chance. I approach every task with ownership, attention to detail, and the mindset of leaving every process better than I found it.**
 
 ## Portfolio & Project Highlights: 
-Training & Learning Operations (Current): Deliver Agile, SQL, Canva, Video Editing, BRD/SRS, and SOP training, while supporting recruitment, learner onboarding, documentation, and stakeholder coordination.
+** Training & Learning Operations (Current): Deliver Agile, SQL, Canva, Video Editing, BRD/SRS, and SOP training, while supporting recruitment, learner onboarding, documentation, and stakeholder coordination.
 Liberty Mutual (US P&C Insurance – TCS): Managed end-to-end underwriting support operations, quality audits, SOP creation, stakeholder communication, defect tracking in Azure DevOps (ADO), UAT support, and process improvement initiatives.
 Ocwen Financial (US Mortgage): Performed mortgage QC, HMDA & TRID compliance reviews, UW condition validation, title search verification, LE/CD validation, closing document audits, and verification of Forms 1002 & 1008 using Jira.
 The Hartford (US P&C Insurance – EXL): Processed policy endorsements, renewals, cancellations, and policy validations using Pega, Siebel, and CLA, ensuring data accuracy and compliance with underwriting guidelines.
