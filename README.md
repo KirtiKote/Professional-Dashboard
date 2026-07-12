@@ -1,12 +1,12 @@
-# 👩‍💻Kirti Kote — Professional Dashboard
+## 👩‍💻Kirti Kote — Professional Dashboard
 
-Welcome to my professional dashboard! I am a results-driven professional with a Master's degree in Computer Science, a strong background in business operations and quality checks, customer support, process optimization, and a wide skill set in digital tools and creative design. I excel at streamlining workflows, supporting teams, social media strategies, and delivering outstanding experiences.
+Welcome to my professional dashboard! I am a results-driven professional with a Master's degree in Computer Science, a strong background in business operations and quality checks, trainings, process optimization, and a wide skill set in digital tools and creative design. I excel at streamlining workflows, supporting teams, social media strategies, and delivering outstanding experiences.
 
 ---
 
 ## 🏅 Professional Summary
 
-Process-driven Subject-Matter Expert and Quality Specialist with 6+ years of experience in the US Property & Casualty insurance, and Mortgage domain, supporting policy operations, endorsements, and quality assurance across end-to-end insurance processes. Hands-on experience in insurance policy endorsements, policy audits, data validation, and compliance checks, ensuring accuracy and adherence to regulatory and business standards. Led end-to-end SOP and BRS documentation, process flow creation, and maintenance, with active stakeholder collaboration,floor support, and process training for operational teams.
+Process-driven Subject-Matter Expert and Quality Specialist with 6+ years of experience in the US Property & Casualty insurance, and Mortgage domain, supporting process operations and quality assurance across end-to-end insurance processes. Hands-on experience in insurance policy endorsements, policy audits, data validation, and compliance checks, ensuring accuracy and adherence to regulatory and business standards. Led end-to-end SOP and BRS documentation, process flow creation, and maintenance, with active stakeholder collaboration,floor support, and process training for operational teams.
 
 Skilled in process mapping using Visio, workflow analysis, and quality reviews, with a solid understanding of SDLC, Agile, and Scrum methodologies. Known for supporting process improvements, audit readiness, and documentation accuracy. Additionally, experienced in leveraging AI tools to enhance documentation efficiency, reporting, and stakeholder communication.
 
@@ -14,14 +14,13 @@ Skilled in process mapping using Visio, workflow analysis, and quality reviews, 
 
 ## 🎓 Education
 
-- **Master’s in Computer Science**
+**Master’s in Computer Science**
 
----
 
 ## 📜 Certifications
 Diploma in Strategic Operations Leadership for Digital Economy
 
-Key Expertise:
+## Key Expertise:
 
 Quality Control, Underwriting Support & Auditing:
 - Achieved 100% accuracy in quality audits, policy servicing, documentation review, testing, and business analysis across US Property & Casualty (P&C) Insurance and Mortgage operations.
@@ -48,15 +47,13 @@ Creative Design & Video Production:
 
 I believe quality is built through consistency, not chance. I approach every task with ownership, attention to detail, and the mindset of leaving every process better than I found it.
 
-
-## 🌟 Portfolio & Project Highlights
-
-- **Process Mapping & Optimization:**  
-  Led successful initiatives to streamline business processes and create comprehensive SOPs that improved team efficiency and compliance.
-- **Customer Support Excellence:**  
-  Delivered outstanding service and support, helping to resolve complex customer issues and improve satisfaction scores.
-- **Creative Design:**  
-  Designed banners, videos, and animations for digital campaigns and internal communications (Canva, video editing tools).
+## Portfolio & Project Highlights: 
+Training & Learning Operations (Current): Deliver Agile, SQL, Canva, Video Editing, BRD/SRS, and SOP training, while supporting recruitment, learner onboarding, documentation, and stakeholder coordination.
+Liberty Mutual (US P&C Insurance – TCS): Managed end-to-end underwriting support operations, quality audits, SOP creation, stakeholder communication, defect tracking in Azure DevOps (ADO), UAT support, and process improvement initiatives.
+Ocwen Financial (US Mortgage): Performed mortgage QC, HMDA & TRID compliance reviews, UW condition validation, title search verification, LE/CD validation, closing document audits, and verification of Forms 1002 & 1008 using Jira.
+The Hartford (US P&C Insurance – EXL): Processed policy endorsements, renewals, cancellations, and policy validations using Pega, Siebel, and CLA, ensuring data accuracy and compliance with underwriting guidelines.
+British Gas Business (UK Utilities – EXL): Managed commercial utility billing operations using SAP CRM, resolving billing discrepancies, validating customer accounts, and ensuring SLA compliance.
+Quality & Process Excellence: Developed SOPs, delivered cross-functional training, performed quality reviews, analyzed process gaps, and drove continuous improvement across insurance, mortgage, and operations workflows.
 
 <!-- Optional: Add direct links to your portfolio, resumes, or work samples below -->
 <!--
@@ -66,14 +63,10 @@ I believe quality is built through consistency, not chance. I approach every tas
 [YouTube](https://www.youtube.com/channel/UCQR6Ir5wqYctCwAH0H5OxOw)
 -->
 
----
-
 ## 📫 Contact
 
 - **Email:** koteekirti@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/kirti-kote
 - **GitHub:** https://github.com/KirtiKote
 
----
-
-*Let’s connect! I’m open to collaboration, full time rols, freelance opportunities, and new challenges in operations, quality excellence, and digital transformation.*
+**Let’s connect! I’m open to collaboration, full time roles, freelance opportunities, and new challenges in operations, quality excellence, and digital transformation.**
