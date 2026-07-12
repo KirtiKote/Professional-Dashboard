@@ -6,7 +6,9 @@ Welcome to my professional dashboard! I am a results-driven professional with a 
 
 ## 🏅 Professional Summary
 
-With 5+ years of experience spanning customer support, operations, process mapping, SOP creation, and quality assurance, I bring both technical and business perspectives to every project. My expertise includes using leading SaaS tools for process management, automation, and digital creativity. I thrive in virtual assistant roles and am passionate about optimizing processes, end to end quality checks, and delivering value to customers and organizations.
+Process-driven Subject-Matter Expert and Quality Specialist with 6+ years of experience in the US Property & Casualty insurance, and Mortgage domain, supporting policy operations, endorsements, and quality assurance across end-to-end insurance processes. Hands-on experience in insurance policy endorsements, policy audits, data validation, and compliance checks, ensuring accuracy and adherence to regulatory and business standards. Led end-to-end SOP and BRS documentation, process flow creation, and maintenance, with active stakeholder collaboration,floor support, and process training for operational teams.
+
+Skilled in process mapping using Visio, workflow analysis, and quality reviews, with a solid understanding of SDLC, Agile, and Scrum methodologies. Known for supporting process improvements, audit readiness, and documentation accuracy. Additionally, experienced in leveraging AI tools to enhance documentation efficiency, reporting, and stakeholder communication.
 
 ---
 
@@ -17,40 +19,35 @@ With 5+ years of experience spanning customer support, operations, process mappi
 ---
 
 ## 📜 Certifications
+Diploma in Strategic Operations Leadership for Digital Economy
 
-- Advanced Business Operations and Support
+Key Expertise:
 
----
+Quality Control, Underwriting Support & Auditing:
+- Achieved 100% accuracy in quality audits, policy servicing, documentation review, testing, and business analysis across US Property & Casualty (P&C) Insurance and Mortgage operations.
 
-## 💼 Professional Experience
+- Supported underwriting operations through endorsements, renewals, cancellations, policy audits, documentation validation, quality checks, policy interpretation, and risk assessment.
 
-- **Customer Support & Operations:**  
-  Hands-on experience in supporting customers, resolving issues, and optimizing service delivery using platforms such as ZohoDesk and SAP SF.
-- **Process Optimization & SOP Creation:**  
-  Expertise in mapping, analyzing, and improving business processes. Skilled at developing clear SOPs to boost efficiency.
-- **Virtual Assistant, QA & QC:**  
-  Proficient in providing virtual assistance, ensuring quality standards, and conducting quality checks across operational processes.
-- **Project & Task Management:**  
-  Managed projects and workflows with tools like Trello, Jira, Notion, and ADO services.
+- Worked on Pega, Siebel, CLA, AtWork, eClick, SharePoint, SQL Server, and SAP SuccessFactors to ensure data accuracy and regulatory compliance.
 
----
+Process Improvement & Business Analysis:
+- Developed SOPs, process maps, and workflow documentation using Visio while supporting Agile, SDLC, UAT, business analysis, and continuous process improvement.
 
-## 🛠️ Key Skills & Tools
+- Performed data analysis using MS Excel, SQL, and Tableau to support reporting, decision-making, and operational improvements.
 
-- **Process Optimization & Mapping**
-- **SOP Creation**
-- **Customer Support**
-- **Operations Management**
-- **Virtual Assistance**
-- **Quality Assurance & Control**
-- **Project Management**
-- **Email Campaigns (Mergo, Waalaxy, SalesQL)**
-- **Digital Tools:**  
-  - Visio, Trello, Jira, Notion, ZohoDesk, SAP SF, ADO services
-- **Design & Creativity:**  
-  - Canva (banner design, animation, video editing), Waalaxy, SalesQL, Animation, Social Media Management
+SME & Stakeholder Management:
+- Served as a Subject Matter Expert (SME) by conducting process trainings, onboarding, knowledge transfer (KT), and floor support.
 
----
+- Collaborated with underwriters, brokers, clients, and cross-functional stakeholders to resolve policy queries and ensure timely policy processing.
+
+Project Management & Technology:
+- Managed projects and workflow tracking using Jira, Azure DevOps, Trello, and SharePoint, supporting quality pipelines, testing, and process optimization.
+
+Creative Design & Video Production:
+- Designed and delivered 140+ professional and animated videos using Canva and AI, showcasing creative storytelling and branding expertise. 
+
+I believe quality is built through consistency, not chance. I approach every task with ownership, attention to detail, and the mindset of leaving every process better than I found it.
+
 
 ## 🌟 Portfolio & Project Highlights
 
@@ -79,4 +76,4 @@ With 5+ years of experience spanning customer support, operations, process mappi
 
 ---
 
-*Let’s connect! I’m open to collaboration, freelance opportunities, and new challenges in operations, support, and digital transformation.*
+*Let’s connect! I’m open to collaboration, full time rols, freelance opportunities, and new challenges in operations, quality excellence, and digital transformation.*
