@@ -43,11 +43,11 @@ Skilled in process mapping using Visio, workflow analysis, and quality reviews, 
 **Creative Design & Video Production:**
 - Designed and delivered 140+ professional and animated videos using Canva and AI, showcasing creative storytelling and branding expertise. 
 
-**I believe quality is built through consistency, not chance. I approach every task with ownership, attention to detail, and the mindset of leaving every process better than I found it.**
+**"I believe quality is built through consistency, not chance. I approach every task with ownership, attention to detail, and the mindset of leaving every process better than I found it."**
 
 ## Portfolio & Project Highlights: 
 
-## Training & Learning Operations (Infinite Graphix Technologies Pvt Ltd.): 
+**Training & Learning Operations (Infinite Graphix Technologies Pvt Ltd.):**
 Deliver Agile, SQL, Canva, Video Editing, BRD/SRS, and SOP training, while supporting recruitment, learner onboarding, documentation, and stakeholder coordination.
 **Liberty Mutual (TCS):**
 Managed end-to-end underwriting support operations, quality audits, SOP creation, stakeholder communication, defect tracking in Azure DevOps (ADO), UAT support, and process improvement initiatives.
