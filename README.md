@@ -47,6 +47,7 @@ Skilled in process mapping using Visio, workflow analysis, and quality reviews, 
 
 ## Portfolio & Project Highlights: 
 
+
 **Training & Learning Operations (Infinite Graphix Technologies Pvt Ltd.):**
 Deliver Agile, SQL, Canva, Video Editing, BRD/SRS, and SOP training, while supporting recruitment, learner onboarding, documentation, and stakeholder coordination.
 **Liberty Mutual (TCS):**
