@@ -18,7 +18,7 @@ Skilled in process mapping using Visio, workflow analysis, and quality reviews, 
 
 
 ## 📜 Certifications
-Diploma in Strategic Operations Leadership for Digital Economy
+**Diploma in Strategic Operations Leadership for Digital Economy**
 
 ## Key Expertise:
 
