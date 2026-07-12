@@ -1,6 +1,8 @@
-## 👩‍💻Kirti Kote — Professional Dashboard
+## 👩‍💻Professional Dashboard | Kirti Kote
 
-Welcome to my professional dashboard! I am a results-driven professional with a Master's degree in Computer Science, a strong background in business operations and quality checks, trainings, process optimization, and a wide skill set in digital tools and creative design. I excel at streamlining workflows, supporting teams, social media strategies, and delivering outstanding experiences.
+**Welcome to my professional dashboard!**
+
+I am a results-driven professional with a Master's degree in Computer Science, a strong background in business operations and quality checks, trainings, process optimization, and a wide skill set in digital tools and creative design. I excel at streamlining workflows, supporting teams, social media strategies, and delivering outstanding experiences.
 
 ---
 
